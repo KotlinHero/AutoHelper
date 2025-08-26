@@ -1,4 +1,4 @@
-package tech.kotlinhero.autohelper.page
+package tech.kotlinhero.autohelper.ui.page
 
 import androidx.compose.runtime.Composable
 
